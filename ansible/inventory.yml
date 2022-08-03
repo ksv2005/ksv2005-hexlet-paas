@@ -5,4 +5,4 @@ all:
     webservers:
       hosts:
         web1:
-          ansible_host: 142.93.203.78
+          ansible_host: 142.93.199.71
