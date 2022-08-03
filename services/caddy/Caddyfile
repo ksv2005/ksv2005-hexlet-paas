@@ -9,8 +9,4 @@ localhost, devops-example.test {
 	handle {
 		reverse_proxy app:3000
 	}
-
-	log {
-		format single_field common_log
-	}
 }
